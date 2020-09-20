@@ -1,0 +1,5 @@
+{
+    "tableName": "apiDb",
+    "partitionKeyName": "userId",
+    "partitionKeyType": "N"
+}
